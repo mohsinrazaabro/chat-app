@@ -1,0 +1,10 @@
+// app global css in SCSS form
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@600&display=swap");
+// declare a class which applies it
+.my-font {
+  font-family: "Baloo Tammudu 2", cursive;
+}
+.paragraph-font {
+  font-family: "Montserrat", sans-serif;
+}
